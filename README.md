@@ -1,4 +1,4 @@
-### 이게뭐지
+### 엎어지고 넘어지는 슬랩스틱 코미디를 처음 맛본 18살짜리 최태영은 X을 지렸다
 
 <!--
 **ty8116/ty8116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
