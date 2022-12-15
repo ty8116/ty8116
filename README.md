@@ -1,4 +1,5 @@
 ### 짜증날땐 짜장면 우울할땐 울면 쫄리면 쫄면
+깃허브를 일기장으로 쓰는 여성. 1일1커밋 도전.
 
 <!--
 **ty8116/ty8116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
