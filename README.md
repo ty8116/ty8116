@@ -1,6 +1,6 @@
-### 짜증날땐 짜장면 우울할땐 울면 쫄리면 쫄면
+### 저한테 왜 그러세요... 아 진짜 왜 그러는데... 아니 왜 아리아나그러는데...
 <br />
-일기는 hungry레포의 issue에 있읍니다.
+일기는 hungry레포의 issue에 있습니다. 츄라잉
 <!--
 **ty8116/ty8116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
